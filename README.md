@@ -84,7 +84,7 @@ Para acessar os endpoints protegidos, primeiro obtenha um token de autenticaçã
 
 ```json
 {
-    "token": "eyJhbGciOiJIUzI1NiJ9..."
+    "token": "exemployJhbGciOiJIUzI1NiJ9..."
 }
 ```
 
@@ -95,7 +95,7 @@ Para acessar os endpoints protegidos, primeiro obtenha um token de autenticaçã
 Para as requisições autenticadas, adicione o token no cabeçalho, pela aba Authorization:
 
   - **Auth Type:** `Bearer Token`
-  - **Token:** `Exemplo11eyJhbGciOiJIUzI1NiJ9... (nesse campo você deve inserir o token que copiou anteriormente)`
+  - **Token:** `exemployJhbGciOiJIUzI1NiJ9... (nesse campo você deve inserir o token que copiou anteriormente)`
 
 ### Lista de Endpoints
 

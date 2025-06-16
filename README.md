@@ -37,7 +37,7 @@ Este projeto é uma API RESTful desenvolvida com Spring Boot que demonstra um si
 
     ```bash
     git clone https://github.com/albukerk1/JwtSecurity.git
-    cd seu-repositorio
+    cd JwtSecurity
     ```
 
 2.  **Compile o projeto com o Maven:**

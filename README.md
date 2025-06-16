@@ -73,10 +73,20 @@ Para acessar os endpoints protegidos, primeiro obtenha um token de autenticaçã
 
 **Body:**
 
+(para testar o ADMIN)
 ```json
 {
     "username": "admin",
     "password": "admin123"
+}
+```
+
+(para testar o USER)
+
+```json
+{
+    "username": "user",
+    "password": "user123"
 }
 ```
 
